@@ -1,7 +1,7 @@
 {
-  "name": "uv-app",
+  "name": "compound-noun",
   "version": "1.0.0",
-  "description": "Ultraviolet instance",
+  "description": "bending is a compound noun",
   "type": "module",
   "engines": {
     "npm": ">=7.0.0",
